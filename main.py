@@ -1,7 +1,7 @@
 # ==============================
 # BOT CONFIGURATION (EDIT HERE)
 # ==============================
-TOKEN = "8955454814:AAF9dJi46wUi5u0hDgY2rg3wGxP_ONhSg4Y"
+TOKEN = "8856510779:AAECLJ9wWLPVBf7bEKuyAOMjYO7n7tfXL38"
 ADMIN_ID = 6995426618
 # ==============================
 
