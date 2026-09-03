@@ -1,6 +1,6 @@
 # ==================== BOT CONFIGURATION ====================
 # Edit ONLY these two lines. No extra variables or environment settings are required.
-BOT_TOKEN = "8955454814:AAF9dJi46wUi5u0hDgY2rg3wGxP_ONhSg4Y"
+BOT_TOKEN = "8921808043:AAHwITz5Tqnq63vAH64pGH7789QjzRuSFT8"
 ADMIN_ID = 6995426618
 # ==========================================================
 
