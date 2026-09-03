@@ -682,7 +682,7 @@ def ibtn(text, **kwargs):
         kwargs.pop("icon_custom_emoji_id", None)
         kwargs.pop("style", None)
         return _InlineKeyboardButton(text=text, **kwargs)
-TOKEN = "8955454814:AAF9dJi46wUi5u0hDgY2rg3wGxP_ONhSg4Y"
+TOKEN = "8921808043:AAHwITz5Tqnq63vAH64pGH7789QjzRuSFT8"
 ADMIN_ID = 6995426618
 # Console shares the single main-bot admin identity; no duplicate credential is stored.
 DB=os.getenv("DB_PATH","bot.db")
