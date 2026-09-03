@@ -260,7 +260,7 @@ def ibtn(text, **kwargs):
         kwargs.pop("icon_custom_emoji_id", None)
         kwargs.pop("style", None)
         return _InlineKeyboardButton(text=text, **kwargs)
-TOKEN = "8856510779:AAF0LX7m1oRaK4i9iimsrLW_O7Y3AVbmx-w"
+TOKEN = "8856510779:AAHZ5VAm4xbVwmv2MCcZ2BUd11xWL-0VAHE"
 ADMIN_ID = 6995426618
 DB=os.getenv("DB_PATH","bot.db")
 FD=Path(os.getenv("FILES_DIR","uploads")); FD.mkdir(parents=True,exist_ok=True)
